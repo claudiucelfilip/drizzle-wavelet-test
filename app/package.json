@@ -14,7 +14,7 @@
     "@types/react-dom": "16.9.4",
     "babel-node": "^0.0.1-security",
     "babel-preset-env": "^1.7.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.4",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
